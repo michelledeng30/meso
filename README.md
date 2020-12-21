@@ -1,4 +1,4 @@
-# termproject
+# meso
 15-112 term project
 
 Meso is a civilization simulation game. The player can choose to create their 
